@@ -1,7 +1,7 @@
 # BotBrains_Battle_Round-2
-To program an  parcel delivery robot using the given CAD model, we follow a simple process:
+To program an  parcel delivery robot, we follow a simple process:
 
-1. Component Selection
+1. Component Selection /br
 Microcontroller: We use Arduino Mega 2560 to control all sensors and motors.
 Sensors:  ultrasonic and Sharp infrared sensors detect obstacles.
 A GPS module helps the robot know its location.
